@@ -1,5 +1,5 @@
 
-# 🍽️ MealPlanner – AI-Driven Meal Planner App
+# MealPlanner
 
 MealPlanner is a SwiftUI + UIKit iOS application that helps users plan meals based on the ingredients they already have. It intelligently recommends dishes, generates shopping lists, and offers step-by-step cooking instructions — all tailored to user preferences like diet, difficulty, and nutrition goals.
 
